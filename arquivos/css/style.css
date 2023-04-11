@@ -7,7 +7,7 @@
 
   /*========== Colors ==========*/
   /*Color mode HSL(hue, saturation, lightness)*/
-  --first-color: hsl(38, 69%, 59%);
+  --first-color: #ffaf2d;
   --text-color: hsl(38, 8%, 8%);
 
   /*========== Font and typography ==========*/
@@ -70,6 +70,7 @@ img {
   position: fixed;
   width: 100%;
   background-color: transparent;
+  box-shadow: 0 0.1rem 0.5rem #815924;
   top: 0;
   left: 0;
   z-index: 100;
@@ -163,7 +164,7 @@ img {
   margin-top: 2rem;
   display: inline-block;
   background-color: var(--text-color);
-  color: #fff;
+  color: #ffeac3;
   padding: .80rem 1.5rem;
   border-radius: 3rem;
   transition: .4s;

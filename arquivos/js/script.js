@@ -1,4 +1,3 @@
-/*=============== SHOW MENU ===============*/
 const navMenu = document.getElementById('nav-menu'),
       navToggle = document.getElementById('nav-toggle'),
       navClose = document.getElementById('nav-close')
@@ -19,7 +18,7 @@ if(navClose){
     })
 }
 
-/*=============== REMOVE MENU MOBILE ===============*/
+/* REMOVE MENU MOBILE */
 const navLink = document.querySelectorAll('.nav__link')
 
 function linkAction(){
@@ -29,7 +28,7 @@ function linkAction(){
 }
 navLink.forEach(n => n.addEventListener('click', linkAction))
 
-/*=============== SCROLL REVEAL ANIMATION ===============*/
+/* SCROLL REVEAL ANIMATION */
 const sr = ScrollReveal({
     distance: '90px',
     duration: 3000,

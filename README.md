@@ -3,8 +3,6 @@
 
 
 
- # Projeto-Calculadora
-
 ### Website Calculadora Online
 
 - Página responsiva de calculadora Online utilizando HTML, CSS e Javascript;
@@ -14,3 +12,5 @@
 
 
 ![favicon img](/img/favicon.png)
+
+

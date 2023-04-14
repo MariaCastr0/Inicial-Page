@@ -11,8 +11,12 @@
 - Compatível com todos os dispositivos móveis e com uma interface de usuário bonita e agradável.
 
 
-![favicon img](/img/favicon.png)
+<!-- ![favicon img](/img/favicon.png) -->
 
 <p>
 <img src="/img/site-calculadoraOnline-img.png" alt="" img-align="middle">
+</p>
+
+<p>
+<img src="/img/site-calculadora-img.png" alt="" img-align="middle">
 </p>

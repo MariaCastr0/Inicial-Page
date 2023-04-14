@@ -17,6 +17,11 @@
 <img src="/img/site-calculadoraOnline-img.png" alt="" img-align="middle">
 </p>
 
+<br>
+<p>
+Calculadora, que ao clicar na imagem da calculadora ou no botão indicativo, surge e possui os modos dark e light.
+</p>
+
 <p>
 <img src="/img/site-calculadora-img.png" alt="" img-align="middle">
 </p>

@@ -19,7 +19,7 @@
 
 <br>
 <p>
-Calculadora, que ao clicar na imagem da calculadora ou no botão indicativo, surge e possui os modos dark e light.
+Calculadora Online Funcional, que ao clicar na imagem da calculadora ou no botão indicativo, surge e possui os modos dark e light.
 </p>
 
 <p>

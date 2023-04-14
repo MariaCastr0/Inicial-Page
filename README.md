@@ -13,4 +13,6 @@
 
 ![favicon img](/img/favicon.png)
 
-
+<p>
+<img src="/img/site-calculadoraOnline-img.png" alt="" img-align="middle">
+</p>
